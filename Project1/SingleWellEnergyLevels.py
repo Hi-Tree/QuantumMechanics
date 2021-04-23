@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from sympy import *
+
 
 #given the origin of the well at z = 0 for symmetry
 
